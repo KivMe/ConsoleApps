@@ -1,0 +1,6 @@
+c:\users\asd\documents\visual studio 2015\Projects\Ideal Body Measurements Calculator\Ideal Body Measurements Calculator\bin\Debug\Ideal Body Measurements Calculator.exe.config
+c:\users\asd\documents\visual studio 2015\Projects\Ideal Body Measurements Calculator\Ideal Body Measurements Calculator\bin\Debug\Ideal Body Measurements Calculator.exe
+c:\users\asd\documents\visual studio 2015\Projects\Ideal Body Measurements Calculator\Ideal Body Measurements Calculator\bin\Debug\Ideal Body Measurements Calculator.pdb
+c:\users\asd\documents\visual studio 2015\Projects\Ideal Body Measurements Calculator\Ideal Body Measurements Calculator\obj\Debug\Ideal Body Measurements Calculator.csprojResolveAssemblyReference.cache
+c:\users\asd\documents\visual studio 2015\Projects\Ideal Body Measurements Calculator\Ideal Body Measurements Calculator\obj\Debug\Ideal Body Measurements Calculator.exe
+c:\users\asd\documents\visual studio 2015\Projects\Ideal Body Measurements Calculator\Ideal Body Measurements Calculator\obj\Debug\Ideal Body Measurements Calculator.pdb
